@@ -5,11 +5,7 @@ For all the HKU students who want to have their weekly schedule as their phone's
 ## Installation and Usage
 1. Open a browser tab, login to HKU Portal, navigate to Timetables > My Weekly Schedule
 2. Hit Ctrl+s on your keyboard or right-click and click "Save as...". Take note of the destination folder. For example, it may be downloaded to your Downloads folder "C:\Users\Obama\Downloads".
-![image](https://user-images.githubusercontent.com/48514988/151181148-71cda7ce-fef0-4808-a0c0-6a637ee41d92.png)
-
 3. Download [this executable file](https://github.com/DarrenChangJR/Weekly-Schedule-Customiser/releases/download/v1.0/scheduler.exe), and save it into the folder "View My Weekly Schedule_files" that was downloaded previously. For example, save it into "C:\Users\Obama\Downloads\View My Weekly Schedule_files".
-![image](https://user-images.githubusercontent.com/48514988/151181503-0ec2997b-18d8-44f1-a544-ec6e269edefd.png)
-
 4. Great! You've downloaded everything you need to! Now open File Explorer and navigate to the "View My Weekly Schedule_files". You should see "scheduler.exe" along with many other files that you need not care about. The "scheduler.exe" is **NOT** meant to be double-clicked.
 5. Shift+right-click anywhere and you will see "Open command window here" and/or "Open PowerShell window here", click either one of them. You will a black/blue screen with nothing but texts.
     * If you opened 'command window', proceed to the next step.
