@@ -11,7 +11,9 @@ For all the HKU students who want to have their weekly schedule as their phone's
 6. *For those comfortable with using the command-line, type `scheduler -h` to see the help menu*
 7. Pick the colours you want from this [colour picker](https://www.w3schools.com/colors/colors_picker.asp). Copy the hexadecimal codes of your chosen colours (such as #000000 for black and #ffffff for white).
 8. Pick your font-family from these five choices (serif, sans-serif, cursive, fantasy, monospace). [Learn more about font-families](https://www.masterclass.com/articles/font-family-guide#5-generic-font-families)
-9. In the command/PowerShell window, enter your chosen font-family and colours. For example:\n`schedule --font=sans-serif --background=#666666 --table=#009879`\nHit Enter.
+9. In the command/PowerShell window, enter your chosen font-family and colours. For example:
+`schedule --font=sans-serif --background=#666666 --table=#009879`
+Hit Enter.
 10. You're done! Your very own schedule can now be found in the File Explorer in the aptly named "your_very_own_schedule.html" file. Just double-click this file to open it with your browser of choice and take a screenshot of it.
 11. If you would like to customise it more, feel free to repeat steps 7 to 10 as needed.
 ## Notes
