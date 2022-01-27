@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/48514988/151202126-c55c84ff-1144-46d3-
 
 2. Hit **Ctrl+s or right-click and click "Save as..."**.
 
-3. Download [this executable file](https://github.com/DarrenChangJR/Weekly-Schedule-Customiser/releases/download/v1.0/scheduler.exe), and save it into the folder **"View My Weekly Schedule_files"** that was downloaded previously.
+3. Download [this executable file](https://github.com/DarrenChangJR/Weekly-Schedule-Customiser/releases/download/v1.0/scheduler.exe), and save it into the folder **"View My Weekly Schedule_files"** that was downloaded along with the html file in step 2.
 
 4. *Note: the "scheduler.exe" is not meant to be double-clicked, but doing so still produces a html file with the default font and colours.*
 
